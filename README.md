@@ -6,7 +6,7 @@ This implementation uses plain RNNs (in contrast to the LSTMs in the original pa
 It uses Python 3.6 and was tested with PyTorch 0.41 and scikit-learn 0.19.1.
 
 If you want to learn how to create a new, custom environment to install the required versions of 
-Python, PyTorch and scikit-learn, please look at: https://conda.io/docs/user-guide/tasks/manage-environments.html
+Python, PyTorch and scikit-learn using conda, please look at: https://conda.io/docs/user-guide/tasks/manage-environments.html
 For a getting started guide to PyTorch look here: https://pytorch.org/get-started/locally/
 
 To start training the model, get some training dataset (in the form of a single .txt file) and put the path in the corresponding line of train.py.
